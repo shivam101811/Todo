@@ -1,0 +1,33 @@
+{
+  "todo": [
+    {
+      "name": "Car Wash",
+      "status": "Pending",
+      "createdAt": "Tue Oct 03 2023",
+      "editCount": 0,
+      "id": 1
+    },
+    {
+      "name": "Shopping",
+      "status": "Pending",
+      "createdAt": "Tue Oct 03 2023",
+      "editCount": 0,
+      "id": 2
+    },
+    {
+      "name": "Reading Book (Harry Potter)",
+      "status": "Pending",
+      "createdAt": "Tue Oct 03 2023",
+      "editCount": 0,
+      "id": 3
+    },
+    {
+      "name": "Eyesome(e-commerce)",
+      "status": "Pending",
+      "createdAt": "Tue Oct 03 2023",
+      "editCount": 0,
+      "id": 4
+    }
+  ],
+  "user": []
+}
